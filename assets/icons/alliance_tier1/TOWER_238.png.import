@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dscb8nkatd28t"
-path="res://.godot/imported/TOWER_238.png-5b68d96538dfd8c3f8512b43873e695c.ctex"
+path="res://.godot/imported/TOWER_238.png-57aa4a06f31562a1f5a376ae2bbeeaae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/alliance_tier1/TOWER_238.png"
-dest_files=["res://.godot/imported/TOWER_238.png-5b68d96538dfd8c3f8512b43873e695c.ctex"]
+source_file="res://artist_bild/assets/icons/alliance_tier1/TOWER_238.png"
+dest_files=["res://.godot/imported/TOWER_238.png-57aa4a06f31562a1f5a376ae2bbeeaae.ctex"]
 
 [params]
 

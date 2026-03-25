@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cm8fm3xh538cm"
-path="res://.godot/imported/TOWER_VOLCANO.png-efad370acc5c7a51aca8d79b5d8c9ff6.ctex"
+path="res://.godot/imported/TOWER_VOLCANO.png-23a4d17f7aea1dc15082bd266e57e9aa.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/alliance_tier1/TOWER_VOLCANO.png"
-dest_files=["res://.godot/imported/TOWER_VOLCANO.png-efad370acc5c7a51aca8d79b5d8c9ff6.ctex"]
+source_file="res://artist_bild/assets/icons/alliance_tier1/TOWER_VOLCANO.png"
+dest_files=["res://.godot/imported/TOWER_VOLCANO.png-23a4d17f7aea1dc15082bd266e57e9aa.ctex"]
 
 [params]
 

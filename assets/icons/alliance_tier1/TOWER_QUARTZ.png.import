@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cpu3tfwmpcqrm"
-path="res://.godot/imported/TOWER_QUARTZ.png-692f50f5053492ef8a10a574610c5213.ctex"
+path="res://.godot/imported/TOWER_QUARTZ.png-2388ab3dfdb96ce2a704506773351e92.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/alliance_tier1/TOWER_QUARTZ.png"
-dest_files=["res://.godot/imported/TOWER_QUARTZ.png-692f50f5053492ef8a10a574610c5213.ctex"]
+source_file="res://artist_bild/assets/icons/alliance_tier1/TOWER_QUARTZ.png"
+dest_files=["res://.godot/imported/TOWER_QUARTZ.png-2388ab3dfdb96ce2a704506773351e92.ctex"]
 
 [params]
 

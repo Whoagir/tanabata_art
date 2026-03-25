@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buvffymd8nxjx"
-path="res://.godot/imported/crit.png-b5776a154f01baa74b57eade8a37cff8.ctex"
+path="res://.godot/imported/crit.png-8dafe87c804ff80fa27e780f837663f0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/towers/mechanics/crit.png"
-dest_files=["res://.godot/imported/crit.png-b5776a154f01baa74b57eade8a37cff8.ctex"]
+source_file="res://artist_bild/assets/icons/towers/mechanics/crit.png"
+dest_files=["res://.godot/imported/crit.png-8dafe87c804ff80fa27e780f837663f0.ctex"]
 
 [params]
 

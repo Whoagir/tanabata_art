@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bsnx7xpfeas4q"
-path="res://.godot/imported/aoe.png-833918b508b1295ca4a4401b94997263.ctex"
+path="res://.godot/imported/aoe.png-3719f7998a41da5cdbc15462ec0f859d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/towers/attack/aoe.png"
-dest_files=["res://.godot/imported/aoe.png-833918b508b1295ca4a4401b94997263.ctex"]
+source_file="res://artist_bild/assets/icons/towers/attack/aoe.png"
+dest_files=["res://.godot/imported/aoe.png-3719f7998a41da5cdbc15462ec0f859d.ctex"]
 
 [params]
 

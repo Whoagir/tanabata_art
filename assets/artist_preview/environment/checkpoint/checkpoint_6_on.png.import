@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cqqbwxcn3it2o"
-path="res://.godot/imported/checkpoint_6_on.png-ab4c4d7676cf97604e9982cf6f488f69.ctex"
+path="res://.godot/imported/checkpoint_6_on.png-1558e0b3d0dc566e396c963d7e5618b0.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/artist_preview/environment/checkpoint/checkpoint_6_on.png"
-dest_files=["res://.godot/imported/checkpoint_6_on.png-ab4c4d7676cf97604e9982cf6f488f69.ctex"]
+source_file="res://artist_bild/assets/artist_preview/environment/checkpoint/checkpoint_6_on.png"
+dest_files=["res://.godot/imported/checkpoint_6_on.png-1558e0b3d0dc566e396c963d7e5618b0.ctex"]
 
 [params]
 

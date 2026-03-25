@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://djo1fpkx3w0w"
-path="res://.godot/imported/stacking_poison.png-0b5795d310cc9b8495fb63a60c83a08e.ctex"
+path="res://.godot/imported/stacking_poison.png-2d03ad19949a9519049616079ce220b2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/towers/mechanics/stacking_poison.png"
-dest_files=["res://.godot/imported/stacking_poison.png-0b5795d310cc9b8495fb63a60c83a08e.ctex"]
+source_file="res://artist_bild/assets/icons/towers/mechanics/stacking_poison.png"
+dest_files=["res://.godot/imported/stacking_poison.png-2d03ad19949a9519049616079ce220b2.ctex"]
 
 [params]
 

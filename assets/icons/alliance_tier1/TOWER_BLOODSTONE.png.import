@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmblvmso0c0qv"
-path="res://.godot/imported/TOWER_BLOODSTONE.png-f74ac548f2f52afc910112246eab43a3.ctex"
+path="res://.godot/imported/TOWER_BLOODSTONE.png-99e4e67d6021464ec8f1d34878733268.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/alliance_tier1/TOWER_BLOODSTONE.png"
-dest_files=["res://.godot/imported/TOWER_BLOODSTONE.png-f74ac548f2f52afc910112246eab43a3.ctex"]
+source_file="res://artist_bild/assets/icons/alliance_tier1/TOWER_BLOODSTONE.png"
+dest_files=["res://.godot/imported/TOWER_BLOODSTONE.png-99e4e67d6021464ec8f1d34878733268.ctex"]
 
 [params]
 

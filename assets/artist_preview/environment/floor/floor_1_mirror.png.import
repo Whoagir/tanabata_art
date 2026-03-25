@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dchlhd7u7bv31"
-path="res://.godot/imported/floor_1_mirror.png-a7a2455e1bee4127d1b5d361522f1b80.ctex"
+path="res://.godot/imported/floor_1_mirror.png-e24cf4e366892a4f606c9680081903ee.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/artist_preview/environment/floor/floor_1_mirror.png"
-dest_files=["res://.godot/imported/floor_1_mirror.png-a7a2455e1bee4127d1b5d361522f1b80.ctex"]
+source_file="res://artist_bild/assets/artist_preview/environment/floor/floor_1_mirror.png"
+dest_files=["res://.godot/imported/floor_1_mirror.png-e24cf4e366892a4f606c9680081903ee.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b5pd75h3a5r86"
-path="res://.godot/imported/mvp_buff.png-4938a5f67f2574460d28d44ed1901b3b.ctex"
+path="res://.godot/imported/mvp_buff.png-7a9e5ebd20e9a68e5938aa9e3a8e0ae7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/towers/mechanics/mvp_buff.png"
-dest_files=["res://.godot/imported/mvp_buff.png-4938a5f67f2574460d28d44ed1901b3b.ctex"]
+source_file="res://artist_bild/assets/icons/towers/mechanics/mvp_buff.png"
+dest_files=["res://.godot/imported/mvp_buff.png-7a9e5ebd20e9a68e5938aa9e3a8e0ae7.ctex"]
 
 [params]
 

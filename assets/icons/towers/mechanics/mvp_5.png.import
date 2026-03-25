@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b6i23p1s1ilud"
-path="res://.godot/imported/mvp_5.png-0fe668a06405555ba62d41f82760e10f.ctex"
+path="res://.godot/imported/mvp_5.png-a03d04e98d99ce3b82bda67eb01b6895.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/towers/mechanics/mvp_5.png"
-dest_files=["res://.godot/imported/mvp_5.png-0fe668a06405555ba62d41f82760e10f.ctex"]
+source_file="res://artist_bild/assets/icons/towers/mechanics/mvp_5.png"
+dest_files=["res://.godot/imported/mvp_5.png-a03d04e98d99ce3b82bda67eb01b6895.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://88bcg2cwnero"
-path="res://.godot/imported/battery_mine.png-06d785443185db1d238cc6929b52298b.ctex"
+path="res://.godot/imported/battery_mine.png-8c672bdfe517bb85f971cc190a892f55.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/towers/mechanics/battery_mine.png"
-dest_files=["res://.godot/imported/battery_mine.png-06d785443185db1d238cc6929b52298b.ctex"]
+source_file="res://artist_bild/assets/icons/towers/mechanics/battery_mine.png"
+dest_files=["res://.godot/imported/battery_mine.png-8c672bdfe517bb85f971cc190a892f55.ctex"]
 
 [params]
 

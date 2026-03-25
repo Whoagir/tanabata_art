@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dx135yaxmgv5x"
-path="res://.godot/imported/stun.png-74a27d21e32f29a4723c1424ae6fe138.ctex"
+path="res://.godot/imported/stun.png-c4832f0399ea7d3472aeb8f753c4941a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/towers/mechanics/stun.png"
-dest_files=["res://.godot/imported/stun.png-74a27d21e32f29a4723c1424ae6fe138.ctex"]
+source_file="res://artist_bild/assets/icons/towers/mechanics/stun.png"
+dest_files=["res://.godot/imported/stun.png-c4832f0399ea7d3472aeb8f753c4941a.ctex"]
 
 [params]
 

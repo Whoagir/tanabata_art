@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://ceq55trepcbwe"
-path="res://.godot/imported/TOWER_VIVID_MALACHITE.png-ab848ebbdd2d79157fb8a8aad2d65f36.ctex"
+path="res://.godot/imported/TOWER_VIVID_MALACHITE.png-99808522a91c929280f48ec2bc9a7aae.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/alliance_tier1/TOWER_VIVID_MALACHITE.png"
-dest_files=["res://.godot/imported/TOWER_VIVID_MALACHITE.png-ab848ebbdd2d79157fb8a8aad2d65f36.ctex"]
+source_file="res://artist_bild/assets/icons/alliance_tier1/TOWER_VIVID_MALACHITE.png"
+dest_files=["res://.godot/imported/TOWER_VIVID_MALACHITE.png-99808522a91c929280f48ec2bc9a7aae.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b3rxsttklcb04"
-path="res://.godot/imported/TOWER_MONKEY.png-d7d9d386fd9952eda374196811f610c8.ctex"
+path="res://.godot/imported/TOWER_MONKEY.png-82d3fb6060ab097d4ab4518454449fd8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/alliance_tier1/TOWER_MONKEY.png"
-dest_files=["res://.godot/imported/TOWER_MONKEY.png-d7d9d386fd9952eda374196811f610c8.ctex"]
+source_file="res://artist_bild/assets/icons/alliance_tier1/TOWER_MONKEY.png"
+dest_files=["res://.godot/imported/TOWER_MONKEY.png-82d3fb6060ab097d4ab4518454449fd8.ctex"]
 
 [params]
 

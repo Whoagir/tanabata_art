@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dho57yk7eyn2e"
-path="res://.godot/imported/TOWER_LAKICHINZ.png-0cefe382315e2e4b5ad1f512de661ba4.ctex"
+path="res://.godot/imported/TOWER_LAKICHINZ.png-2efcd5b881c1d03ddd2276241500363b.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/alliance_tier1/TOWER_LAKICHINZ.png"
-dest_files=["res://.godot/imported/TOWER_LAKICHINZ.png-0cefe382315e2e4b5ad1f512de661ba4.ctex"]
+source_file="res://artist_bild/assets/icons/alliance_tier1/TOWER_LAKICHINZ.png"
+dest_files=["res://.godot/imported/TOWER_LAKICHINZ.png-2efcd5b881c1d03ddd2276241500363b.ctex"]
 
 [params]
 

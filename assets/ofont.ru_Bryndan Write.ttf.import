@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://cx1w2gfvfy0cf"
-path="res://.godot/imported/ofont.ru_Bryndan Write.ttf-c63ab16700bdec0adb280cede334a8be.fontdata"
+path="res://.godot/imported/ofont.ru_Bryndan Write.ttf-02ed4792ffdf6f11b0bad90d10165e3d.fontdata"
 
 [deps]
 
-source_file="res://assets/ofont.ru_Bryndan Write.ttf"
-dest_files=["res://.godot/imported/ofont.ru_Bryndan Write.ttf-c63ab16700bdec0adb280cede334a8be.fontdata"]
+source_file="res://artist_bild/assets/ofont.ru_Bryndan Write.ttf"
+dest_files=["res://.godot/imported/ofont.ru_Bryndan Write.ttf-02ed4792ffdf6f11b0bad90d10165e3d.fontdata"]
 
 [params]
 

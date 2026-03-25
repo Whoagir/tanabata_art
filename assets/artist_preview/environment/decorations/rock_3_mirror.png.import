@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://botalecx2x0up"
-path="res://.godot/imported/rock_3_mirror.png-520269c4b870d57ed74458268a725a55.ctex"
+path="res://.godot/imported/rock_3_mirror.png-6dbff5a23c5a19566d51cfa28aaa0865.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/artist_preview/environment/decorations/rock_3_mirror.png"
-dest_files=["res://.godot/imported/rock_3_mirror.png-520269c4b870d57ed74458268a725a55.ctex"]
+source_file="res://artist_bild/assets/artist_preview/environment/decorations/rock_3_mirror.png"
+dest_files=["res://.godot/imported/rock_3_mirror.png-6dbff5a23c5a19566d51cfa28aaa0865.ctex"]
 
 [params]
 

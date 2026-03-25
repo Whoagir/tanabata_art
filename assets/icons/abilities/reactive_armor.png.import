@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://csymb6r0nwxoo"
-path="res://.godot/imported/reactive_armor.png-b5213d3ce3d5851064158d16f038e0b7.ctex"
+path="res://.godot/imported/reactive_armor.png-743877072edfb961682d8f1205802e25.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/icons/abilities/reactive_armor.png"
-dest_files=["res://.godot/imported/reactive_armor.png-b5213d3ce3d5851064158d16f038e0b7.ctex"]
+source_file="res://artist_bild/assets/icons/abilities/reactive_armor.png"
+dest_files=["res://.godot/imported/reactive_armor.png-743877072edfb961682d8f1205802e25.ctex"]
 
 [params]
 
