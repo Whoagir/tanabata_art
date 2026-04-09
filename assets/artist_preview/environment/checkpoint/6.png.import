@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dvprwi2iaig6m"
-path="res://.godot/imported/6.png-a8dbff83f545507c0df22582dc8163c9.ctex"
+uid="uid://bdwl363traaol"
+path="res://.godot/imported/6.png-bb464651d2d8055d13c8d10ea916716f.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/artist_preview/environment/checkpoint/6.png"
-dest_files=["res://.godot/imported/6.png-a8dbff83f545507c0df22582dc8163c9.ctex"]
+source_file="res://assets/artist_preview/environment/checkpoint/6.png"
+dest_files=["res://.godot/imported/6.png-bb464651d2d8055d13c8d10ea916716f.ctex"]
 
 [params]
 

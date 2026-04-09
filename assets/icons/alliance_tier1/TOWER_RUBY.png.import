@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bjoat6f4kfmh7"
-path="res://.godot/imported/TOWER_RUBY.png-d1ad1dce2e0dfd276e4d0acd85d09e58.ctex"
+path="res://.godot/imported/TOWER_RUBY.png-c43c08cd99bb91d152fcd249f955a892.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/alliance_tier1/TOWER_RUBY.png"
-dest_files=["res://.godot/imported/TOWER_RUBY.png-d1ad1dce2e0dfd276e4d0acd85d09e58.ctex"]
+source_file="res://assets/icons/alliance_tier1/TOWER_RUBY.png"
+dest_files=["res://.godot/imported/TOWER_RUBY.png-c43c08cd99bb91d152fcd249f955a892.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwtnvk625getk"
-path="res://.godot/imported/projectile.png-ac04b1ae22397b41d289e47be50fc2ed.ctex"
+path="res://.godot/imported/projectile.png-577f1ffcdc69a333b82f6d0dbeb29351.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/towers/attack/projectile.png"
-dest_files=["res://.godot/imported/projectile.png-ac04b1ae22397b41d289e47be50fc2ed.ctex"]
+source_file="res://assets/icons/towers/attack/projectile.png"
+dest_files=["res://.godot/imported/projectile.png-577f1ffcdc69a333b82f6d0dbeb29351.ctex"]
 
 [params]
 

@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://mtww3su20ka6"
-path="res://.godot/imported/flagstog_off.png-752f1e49b16a3b86ea39554b5efdb820.ctex"
+uid="uid://cs8p6aypn4502"
+path="res://.godot/imported/flagstog_off.png-ee34ac9acd93dc7da4663ba534b98dce.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/artist_preview/environment/checkpoint/flagstog_off.png"
-dest_files=["res://.godot/imported/flagstog_off.png-752f1e49b16a3b86ea39554b5efdb820.ctex"]
+source_file="res://assets/artist_preview/environment/checkpoint/flagstog_off.png"
+dest_files=["res://.godot/imported/flagstog_off.png-ee34ac9acd93dc7da4663ba534b98dce.ctex"]
 
 [params]
 

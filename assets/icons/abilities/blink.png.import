@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bwxcc4mgtw2d8"
-path="res://.godot/imported/blink.png-14cf7c33bf3fcc04d507280ddaad08a7.ctex"
+path="res://.godot/imported/blink.png-38ad44d348635b4c1d8e22c4d39f83c4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/abilities/blink.png"
-dest_files=["res://.godot/imported/blink.png-14cf7c33bf3fcc04d507280ddaad08a7.ctex"]
+source_file="res://assets/icons/abilities/blink.png"
+dest_files=["res://.godot/imported/blink.png-38ad44d348635b4c1d8e22c4d39f83c4.ctex"]
 
 [params]
 

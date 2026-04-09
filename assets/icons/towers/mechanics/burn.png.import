@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://b4j7vavgv4qs7"
-path="res://.godot/imported/burn.png-d03d44044d1c8dc969e2fe4ad0033a41.ctex"
+path="res://.godot/imported/burn.png-5ec5223e33f95ea9f01ac7ebba147138.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/towers/mechanics/burn.png"
-dest_files=["res://.godot/imported/burn.png-d03d44044d1c8dc969e2fe4ad0033a41.ctex"]
+source_file="res://assets/icons/towers/mechanics/burn.png"
+dest_files=["res://.godot/imported/burn.png-5ec5223e33f95ea9f01ac7ebba147138.ctex"]
 
 [params]
 

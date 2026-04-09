@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://codjkv0oy26ct"
-path="res://.godot/imported/illusions.png-b5f00276304ee372b11a3d4c2a492bcc.ctex"
+path="res://.godot/imported/illusions.png-5c088c9a8a0ed4fb5d39e0f99a4fae18.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/abilities/illusions.png"
-dest_files=["res://.godot/imported/illusions.png-b5f00276304ee372b11a3d4c2a492bcc.ctex"]
+source_file="res://assets/icons/abilities/illusions.png"
+dest_files=["res://.godot/imported/illusions.png-5c088c9a8a0ed4fb5d39e0f99a4fae18.ctex"]
 
 [params]
 

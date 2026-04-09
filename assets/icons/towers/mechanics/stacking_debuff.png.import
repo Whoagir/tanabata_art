@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dacul58qlvsiq"
-path="res://.godot/imported/stacking_debuff.png-c884b19bcf57820a14adfa9c47826a29.ctex"
+path="res://.godot/imported/stacking_debuff.png-c2350cd93b8f6990d0385ee5468cadb7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/towers/mechanics/stacking_debuff.png"
-dest_files=["res://.godot/imported/stacking_debuff.png-c884b19bcf57820a14adfa9c47826a29.ctex"]
+source_file="res://assets/icons/towers/mechanics/stacking_debuff.png"
+dest_files=["res://.godot/imported/stacking_debuff.png-c2350cd93b8f6990d0385ee5468cadb7.ctex"]
 
 [params]
 

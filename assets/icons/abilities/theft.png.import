@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdx6l37hil45w"
-path="res://.godot/imported/theft.png-88a33d5c9c9a5daafe74b5d49e17935a.ctex"
+path="res://.godot/imported/theft.png-f127b3e164b543219c40002ea4609747.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/abilities/theft.png"
-dest_files=["res://.godot/imported/theft.png-88a33d5c9c9a5daafe74b5d49e17935a.ctex"]
+source_file="res://assets/icons/abilities/theft.png"
+dest_files=["res://.godot/imported/theft.png-f127b3e164b543219c40002ea4609747.ctex"]
 
 [params]
 

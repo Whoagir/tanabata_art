@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cfwp4ipag6w5k"
-path="res://.godot/imported/Без имени-1.png-8cbf0feb4fc7c32934a2d1f407d2aecf.ctex"
+uid="uid://b7xni3ad2gvyu"
+path="res://.godot/imported/Без имени-1.png-a54b7f450606b9fb45b401c71df61461.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/artist_preview/environment/checkpoint/Без имени-1.png"
-dest_files=["res://.godot/imported/Без имени-1.png-8cbf0feb4fc7c32934a2d1f407d2aecf.ctex"]
+source_file="res://assets/artist_preview/environment/checkpoint/Без имени-1.png"
+dest_files=["res://.godot/imported/Без имени-1.png-a54b7f450606b9fb45b401c71df61461.ctex"]
 
 [params]
 

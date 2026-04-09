@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c54f5gp77aumx"
-path="res://.godot/imported/ivasion.png-aa2611c47f3a6508932a29c8fdeb05f1.ctex"
+path="res://.godot/imported/ivasion.png-46f753d805e64ed5ac60d4e14276cddb.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/abilities/ivasion.png"
-dest_files=["res://.godot/imported/ivasion.png-aa2611c47f3a6508932a29c8fdeb05f1.ctex"]
+source_file="res://assets/icons/abilities/ivasion.png"
+dest_files=["res://.godot/imported/ivasion.png-46f753d805e64ed5ac60d4e14276cddb.ctex"]
 
 [params]
 

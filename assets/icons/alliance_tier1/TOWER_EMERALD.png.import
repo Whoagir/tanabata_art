@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dckipdunr5tl1"
-path="res://.godot/imported/TOWER_EMERALD.png-c9c2208107f788c6a04da17345c61e5f.ctex"
+path="res://.godot/imported/TOWER_EMERALD.png-ce4615bc2f878c9e16dabb3669e3911e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/alliance_tier1/TOWER_EMERALD.png"
-dest_files=["res://.godot/imported/TOWER_EMERALD.png-c9c2208107f788c6a04da17345c61e5f.ctex"]
+source_file="res://assets/icons/alliance_tier1/TOWER_EMERALD.png"
+dest_files=["res://.godot/imported/TOWER_EMERALD.png-ce4615bc2f878c9e16dabb3669e3911e.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://clx35dhw36hqi"
-path="res://.godot/imported/anti_flying.png-a84f602aa7ca9057309498fabde536cb.ctex"
+path="res://.godot/imported/anti_flying.png-3afc2cda747a708efc24b9616297b78e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/towers/mechanics/anti_flying.png"
-dest_files=["res://.godot/imported/anti_flying.png-a84f602aa7ca9057309498fabde536cb.ctex"]
+source_file="res://assets/icons/towers/mechanics/anti_flying.png"
+dest_files=["res://.godot/imported/anti_flying.png-3afc2cda747a708efc24b9616297b78e.ctex"]
 
 [params]
 

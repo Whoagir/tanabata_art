@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://xyl2mds7ypgw"
-path="res://.godot/imported/acceleration.png-8671c79b50fccf4ff95c072764193913.ctex"
+path="res://.godot/imported/acceleration.png-2b3eebb912de5bc2e32ca7a1f14b471d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/abilities/acceleration.png"
-dest_files=["res://.godot/imported/acceleration.png-8671c79b50fccf4ff95c072764193913.ctex"]
+source_file="res://assets/icons/abilities/acceleration.png"
+dest_files=["res://.godot/imported/acceleration.png-2b3eebb912de5bc2e32ca7a1f14b471d.ctex"]
 
 [params]
 

@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://dan5cbnyff4ey"
-path="res://.godot/imported/split_9.png-a5e7b7196b808e261921f21223b967a4.ctex"
+path="res://.godot/imported/split_9.png-ef6e2bdb348b5acda00d3bf0323c7f2e.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/towers/mechanics/split_9.png"
-dest_files=["res://.godot/imported/split_9.png-a5e7b7196b808e261921f21223b967a4.ctex"]
+source_file="res://assets/icons/towers/mechanics/split_9.png"
+dest_files=["res://.godot/imported/split_9.png-ef6e2bdb348b5acda00d3bf0323c7f2e.ctex"]
 
 [params]
 

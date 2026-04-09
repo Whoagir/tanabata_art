@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cjn17thxb7c4c"
-path="res://.godot/imported/ore_t1_4_real_mirror.png-b047e181e4f7e87c0f28c292539b7e01.ctex"
+uid="uid://bl81kxsdi1ct6"
+path="res://.godot/imported/ore_t1_4_real_mirror.png-25c022f854565f09994f499655bdd5b7.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/artist_preview/environment/ore/ore_t1_4_real_mirror.png"
-dest_files=["res://.godot/imported/ore_t1_4_real_mirror.png-b047e181e4f7e87c0f28c292539b7e01.ctex"]
+source_file="res://assets/artist_preview/environment/ore/ore_t1_4_real_mirror.png"
+dest_files=["res://.godot/imported/ore_t1_4_real_mirror.png-25c022f854565f09994f499655bdd5b7.ctex"]
 
 [params]
 

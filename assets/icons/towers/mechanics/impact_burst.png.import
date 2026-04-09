@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bdna7xsn7nkmo"
-path="res://.godot/imported/impact_burst.png-fef607e9216750a136b5b6f4fd182cf6.ctex"
+path="res://.godot/imported/impact_burst.png-82184514f3620ef496c209da1314b0ad.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/towers/mechanics/impact_burst.png"
-dest_files=["res://.godot/imported/impact_burst.png-fef607e9216750a136b5b6f4fd182cf6.ctex"]
+source_file="res://assets/icons/towers/mechanics/impact_burst.png"
+dest_files=["res://.godot/imported/impact_burst.png-82184514f3620ef496c209da1314b0ad.ctex"]
 
 [params]
 

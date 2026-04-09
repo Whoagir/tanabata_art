@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bmc64dvvvuho2"
-path="res://.godot/imported/magical.png-1969a05fb0bb739d1e419d5a74646ac9.ctex"
+path="res://.godot/imported/magical.png-8b811c8c37d000c8029b1f5f7ab1bc69.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/towers/mechanics/magical.png"
-dest_files=["res://.godot/imported/magical.png-1969a05fb0bb739d1e419d5a74646ac9.ctex"]
+source_file="res://assets/icons/towers/mechanics/magical.png"
+dest_files=["res://.godot/imported/magical.png-8b811c8c37d000c8029b1f5f7ab1bc69.ctex"]
 
 [params]
 

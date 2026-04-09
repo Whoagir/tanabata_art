@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cwrhbmjdcvd8x"
-path="res://.godot/imported/debuff.png-beaf5753c64208b39e2cba45ad7a44fd.ctex"
+path="res://.godot/imported/debuff.png-19c174074ad3490a80a9729f34a85645.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/icons/towers/mechanics/debuff.png"
-dest_files=["res://.godot/imported/debuff.png-beaf5753c64208b39e2cba45ad7a44fd.ctex"]
+source_file="res://assets/icons/towers/mechanics/debuff.png"
+dest_files=["res://.godot/imported/debuff.png-19c174074ad3490a80a9729f34a85645.ctex"]
 
 [params]
 

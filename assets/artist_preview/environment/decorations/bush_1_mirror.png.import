@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://1jd74g74rjf1"
-path="res://.godot/imported/bush_1_mirror.png-3f651be4a74631b02bf61bfea13f2acc.ctex"
+path="res://.godot/imported/bush_1_mirror.png-8915208666645abbfc97efb42fd385b5.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://artist_bild/assets/artist_preview/environment/decorations/bush_1_mirror.png"
-dest_files=["res://.godot/imported/bush_1_mirror.png-3f651be4a74631b02bf61bfea13f2acc.ctex"]
+source_file="res://assets/artist_preview/environment/decorations/bush_1_mirror.png"
+dest_files=["res://.godot/imported/bush_1_mirror.png-8915208666645abbfc97efb42fd385b5.ctex"]
 
 [params]
 
