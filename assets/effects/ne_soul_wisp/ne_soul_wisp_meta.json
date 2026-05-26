@@ -1,0 +1,84 @@
+{
+  "attack": "SOUL_PULL",
+  "tower_line": "NE",
+  "frame_count": 12,
+  "anim_cycle_sec": 0.52,
+  "size": [
+    96,
+    96
+  ],
+  "native_center_px": [
+    48.0,
+    48.0
+  ],
+  "native_ref_radius": 26.0,
+  "vis_seed": 6127,
+  "source": "scripts/gen_ne_soul_wisp_frames.py",
+  "godot_refs": [
+    "ne_soul_wisp_sprite_layer.gd",
+    "ne_na_special_attack_system.gd",
+    "entity_renderer.gd:_render_ne_soul_wisps"
+  ],
+  "frames": [
+    {
+      "file": "ne_soul_wisp_00.png",
+      "index": 0,
+      "duration_ms": 43
+    },
+    {
+      "file": "ne_soul_wisp_01.png",
+      "index": 1,
+      "duration_ms": 43
+    },
+    {
+      "file": "ne_soul_wisp_02.png",
+      "index": 2,
+      "duration_ms": 43
+    },
+    {
+      "file": "ne_soul_wisp_03.png",
+      "index": 3,
+      "duration_ms": 43
+    },
+    {
+      "file": "ne_soul_wisp_04.png",
+      "index": 4,
+      "duration_ms": 43
+    },
+    {
+      "file": "ne_soul_wisp_05.png",
+      "index": 5,
+      "duration_ms": 43
+    },
+    {
+      "file": "ne_soul_wisp_06.png",
+      "index": 6,
+      "duration_ms": 43
+    },
+    {
+      "file": "ne_soul_wisp_07.png",
+      "index": 7,
+      "duration_ms": 43
+    },
+    {
+      "file": "ne_soul_wisp_08.png",
+      "index": 8,
+      "duration_ms": 43
+    },
+    {
+      "file": "ne_soul_wisp_09.png",
+      "index": 9,
+      "duration_ms": 43
+    },
+    {
+      "file": "ne_soul_wisp_10.png",
+      "index": 10,
+      "duration_ms": 43
+    },
+    {
+      "file": "ne_soul_wisp_11.png",
+      "index": 11,
+      "duration_ms": 43
+    }
+  ]
+}

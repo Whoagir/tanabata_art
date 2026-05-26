@@ -1,0 +1,82 @@
+{
+  "attack": "HEX_IGNITE",
+  "frame_count": 10,
+  "anim_cycle_sec": 1.0,
+  "size": [
+    128,
+    128
+  ],
+  "native_hex_size": 20.0,
+  "native_center_px": [
+    64.0,
+    64.0
+  ],
+  "vis_seed": 7919,
+  "source": "scripts/gen_pe_hex_burn_frames.py",
+  "godot_refs": [
+    "entity_renderer.gd:_render_pe_hex_burns",
+    "pe_hex_burn_sprite_layer.gd"
+  ],
+  "frames": [
+    {
+      "file": "pe_hex_burn_00.png",
+      "index": 0,
+      "now_s": 0.0,
+      "duration_ms": 100
+    },
+    {
+      "file": "pe_hex_burn_01.png",
+      "index": 1,
+      "now_s": 0.1,
+      "duration_ms": 100
+    },
+    {
+      "file": "pe_hex_burn_02.png",
+      "index": 2,
+      "now_s": 0.2,
+      "duration_ms": 100
+    },
+    {
+      "file": "pe_hex_burn_03.png",
+      "index": 3,
+      "now_s": 0.3,
+      "duration_ms": 100
+    },
+    {
+      "file": "pe_hex_burn_04.png",
+      "index": 4,
+      "now_s": 0.4,
+      "duration_ms": 100
+    },
+    {
+      "file": "pe_hex_burn_05.png",
+      "index": 5,
+      "now_s": 0.5,
+      "duration_ms": 100
+    },
+    {
+      "file": "pe_hex_burn_06.png",
+      "index": 6,
+      "now_s": 0.6,
+      "duration_ms": 100
+    },
+    {
+      "file": "pe_hex_burn_07.png",
+      "index": 7,
+      "now_s": 0.7,
+      "duration_ms": 100
+    },
+    {
+      "file": "pe_hex_burn_08.png",
+      "index": 8,
+      "now_s": 0.8,
+      "duration_ms": 100
+    },
+    {
+      "file": "pe_hex_burn_09.png",
+      "index": 9,
+      "now_s": 0.9,
+      "duration_ms": 100
+    }
+  ]
+}

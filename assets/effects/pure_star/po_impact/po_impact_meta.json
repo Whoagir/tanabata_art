@@ -1,0 +1,68 @@
+{
+  "variant": "po_impact",
+  "kind": "impact",
+  "split": true,
+  "frame_count": 10,
+  "source": "scripts/gen_pure_star_frames.py",
+  "frames": [
+    {
+      "file": "po_impact_00.png",
+      "index": 0,
+      "life_u": 0.0
+    },
+    {
+      "file": "po_impact_01.png",
+      "index": 1,
+      "life_u": 0.1111
+    },
+    {
+      "file": "po_impact_02.png",
+      "index": 2,
+      "life_u": 0.2222
+    },
+    {
+      "file": "po_impact_03.png",
+      "index": 3,
+      "life_u": 0.3333
+    },
+    {
+      "file": "po_impact_04.png",
+      "index": 4,
+      "life_u": 0.4444
+    },
+    {
+      "file": "po_impact_05.png",
+      "index": 5,
+      "life_u": 0.5556
+    },
+    {
+      "file": "po_impact_06.png",
+      "index": 6,
+      "life_u": 0.6667
+    },
+    {
+      "file": "po_impact_07.png",
+      "index": 7,
+      "life_u": 0.7778
+    },
+    {
+      "file": "po_impact_08.png",
+      "index": 8,
+      "life_u": 0.8889
+    },
+    {
+      "file": "po_impact_09.png",
+      "index": 9,
+      "life_u": 1.0
+    }
+  ],
+  "size": [
+    128,
+    128
+  ],
+  "native_center_px": [
+    64.0,
+    64.0
+  ],
+  "native_hex_size": 20.0
+}

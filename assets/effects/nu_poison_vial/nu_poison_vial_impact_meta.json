@@ -1,0 +1,91 @@
+{
+  "variant": "nu_poison_vial_impact",
+  "kind": "impact",
+  "frame_count": 12,
+  "anim_cycle_sec": 0.48,
+  "size": [
+    96,
+    96
+  ],
+  "native_center_px": [
+    48.0,
+    48.0
+  ],
+  "native_ref_radius": 28.0,
+  "vis_seed": 5544,
+  "source": "scripts/gen_nu_poison_vial_frames.py",
+  "frames": [
+    {
+      "file": "nu_poison_vial_impact_00.png",
+      "index": 0,
+      "life_u": 0.0,
+      "duration_ms": 40
+    },
+    {
+      "file": "nu_poison_vial_impact_01.png",
+      "index": 1,
+      "life_u": 0.0909,
+      "duration_ms": 40
+    },
+    {
+      "file": "nu_poison_vial_impact_02.png",
+      "index": 2,
+      "life_u": 0.1818,
+      "duration_ms": 40
+    },
+    {
+      "file": "nu_poison_vial_impact_03.png",
+      "index": 3,
+      "life_u": 0.2727,
+      "duration_ms": 40
+    },
+    {
+      "file": "nu_poison_vial_impact_04.png",
+      "index": 4,
+      "life_u": 0.3636,
+      "duration_ms": 40
+    },
+    {
+      "file": "nu_poison_vial_impact_05.png",
+      "index": 5,
+      "life_u": 0.4545,
+      "duration_ms": 40
+    },
+    {
+      "file": "nu_poison_vial_impact_06.png",
+      "index": 6,
+      "life_u": 0.5455,
+      "duration_ms": 40
+    },
+    {
+      "file": "nu_poison_vial_impact_07.png",
+      "index": 7,
+      "life_u": 0.6364,
+      "duration_ms": 40
+    },
+    {
+      "file": "nu_poison_vial_impact_08.png",
+      "index": 8,
+      "life_u": 0.7273,
+      "duration_ms": 40
+    },
+    {
+      "file": "nu_poison_vial_impact_09.png",
+      "index": 9,
+      "life_u": 0.8182,
+      "duration_ms": 40
+    },
+    {
+      "file": "nu_poison_vial_impact_10.png",
+      "index": 10,
+      "life_u": 0.9091,
+      "duration_ms": 40
+    },
+    {
+      "file": "nu_poison_vial_impact_11.png",
+      "index": 11,
+      "life_u": 1.0,
+      "duration_ms": 40
+    }
+  ]
+}

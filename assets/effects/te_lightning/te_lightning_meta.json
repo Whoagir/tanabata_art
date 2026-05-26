@@ -1,0 +1,111 @@
+{
+  "attack": "SKY_LIGHTNING",
+  "visual_msec": 560,
+  "frame_count": 12,
+  "size": [
+    192,
+    256
+  ],
+  "vis_seed": 7919,
+  "branch_count": 4,
+  "width_mult": 1.05,
+  "from_px": [
+    117.84,
+    43.870000000000005
+  ],
+  "to_px": [
+    99.84,
+    184.32
+  ],
+  "source": "scripts/gen_te_lightning_frames.py",
+  "godot_refs": [
+    "entity_renderer.gd:_render_te_lightning_lines",
+    "te_pe_special_attack_system.gd"
+  ],
+  "frames": [
+    {
+      "file": "te_lightning_00.png",
+      "index": 0,
+      "alpha": 1.0,
+      "flicker": 0,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_lightning_01.png",
+      "index": 1,
+      "alpha": 0.9091,
+      "flicker": 1,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_lightning_02.png",
+      "index": 2,
+      "alpha": 0.8182,
+      "flicker": 2,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_lightning_03.png",
+      "index": 3,
+      "alpha": 0.7273,
+      "flicker": 4,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_lightning_04.png",
+      "index": 4,
+      "alpha": 0.6364,
+      "flicker": 5,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_lightning_05.png",
+      "index": 5,
+      "alpha": 0.5455,
+      "flicker": 6,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_lightning_06.png",
+      "index": 6,
+      "alpha": 0.4545,
+      "flicker": 8,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_lightning_07.png",
+      "index": 7,
+      "alpha": 0.3636,
+      "flicker": 9,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_lightning_08.png",
+      "index": 8,
+      "alpha": 0.2727,
+      "flicker": 10,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_lightning_09.png",
+      "index": 9,
+      "alpha": 0.1818,
+      "flicker": 12,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_lightning_10.png",
+      "index": 10,
+      "alpha": 0.0909,
+      "flicker": 13,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_lightning_11.png",
+      "index": 11,
+      "alpha": 0.0,
+      "flicker": 14,
+      "duration_ms": 50
+    }
+  ]
+}

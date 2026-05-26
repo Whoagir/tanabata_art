@@ -1,0 +1,79 @@
+{
+  "variant": "ni_snowflake",
+  "kind": "projectile",
+  "frame_count": 12,
+  "anim_cycle_sec": 0.55,
+  "size": [
+    96,
+    96
+  ],
+  "native_center_px": [
+    48.0,
+    48.0
+  ],
+  "native_ref_radius": 30.0,
+  "vis_seed": 3317,
+  "source": "scripts/gen_ni_snowflake_frames.py",
+  "frames": [
+    {
+      "file": "ni_snowflake_00.png",
+      "index": 0,
+      "duration_ms": 45
+    },
+    {
+      "file": "ni_snowflake_01.png",
+      "index": 1,
+      "duration_ms": 45
+    },
+    {
+      "file": "ni_snowflake_02.png",
+      "index": 2,
+      "duration_ms": 45
+    },
+    {
+      "file": "ni_snowflake_03.png",
+      "index": 3,
+      "duration_ms": 45
+    },
+    {
+      "file": "ni_snowflake_04.png",
+      "index": 4,
+      "duration_ms": 45
+    },
+    {
+      "file": "ni_snowflake_05.png",
+      "index": 5,
+      "duration_ms": 45
+    },
+    {
+      "file": "ni_snowflake_06.png",
+      "index": 6,
+      "duration_ms": 45
+    },
+    {
+      "file": "ni_snowflake_07.png",
+      "index": 7,
+      "duration_ms": 45
+    },
+    {
+      "file": "ni_snowflake_08.png",
+      "index": 8,
+      "duration_ms": 45
+    },
+    {
+      "file": "ni_snowflake_09.png",
+      "index": 9,
+      "duration_ms": 45
+    },
+    {
+      "file": "ni_snowflake_10.png",
+      "index": 10,
+      "duration_ms": 45
+    },
+    {
+      "file": "ni_snowflake_11.png",
+      "index": 11,
+      "duration_ms": 45
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "attack": "NU_POISON_CLOUD",
+  "frame_count": 10,
+  "anim_cycle_sec": 1.0,
+  "size": [
+    128,
+    128
+  ],
+  "native_radius_px": 20.0,
+  "native_center_px": [
+    64.0,
+    64.0
+  ],
+  "vis_seed": 7919,
+  "source": "scripts/gen_nu_poison_cloud_frames.py",
+  "godot_refs": [
+    "entity_renderer.gd:_render_nu_poison_clouds",
+    "nu_poison_cloud_sprite_layer.gd"
+  ],
+  "frames": [
+    {
+      "file": "nu_poison_cloud_00.png",
+      "index": 0,
+      "now_s": 0.0,
+      "tick_u": 0.0,
+      "duration_ms": 100
+    },
+    {
+      "file": "nu_poison_cloud_01.png",
+      "index": 1,
+      "now_s": 0.1,
+      "tick_u": 0.1,
+      "duration_ms": 100
+    },
+    {
+      "file": "nu_poison_cloud_02.png",
+      "index": 2,
+      "now_s": 0.2,
+      "tick_u": 0.2,
+      "duration_ms": 100
+    },
+    {
+      "file": "nu_poison_cloud_03.png",
+      "index": 3,
+      "now_s": 0.3,
+      "tick_u": 0.3,
+      "duration_ms": 100
+    },
+    {
+      "file": "nu_poison_cloud_04.png",
+      "index": 4,
+      "now_s": 0.4,
+      "tick_u": 0.4,
+      "duration_ms": 100
+    },
+    {
+      "file": "nu_poison_cloud_05.png",
+      "index": 5,
+      "now_s": 0.5,
+      "tick_u": 0.5,
+      "duration_ms": 100
+    },
+    {
+      "file": "nu_poison_cloud_06.png",
+      "index": 6,
+      "now_s": 0.6,
+      "tick_u": 0.6,
+      "duration_ms": 100
+    },
+    {
+      "file": "nu_poison_cloud_07.png",
+      "index": 7,
+      "now_s": 0.7,
+      "tick_u": 0.7,
+      "duration_ms": 100
+    },
+    {
+      "file": "nu_poison_cloud_08.png",
+      "index": 8,
+      "now_s": 0.8,
+      "tick_u": 0.8,
+      "duration_ms": 100
+    },
+    {
+      "file": "nu_poison_cloud_09.png",
+      "index": 9,
+      "now_s": 0.9,
+      "tick_u": 0.9,
+      "duration_ms": 100
+    }
+  ]
+}

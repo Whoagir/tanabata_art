@@ -1,0 +1,70 @@
+{
+  "variant": "to_beam",
+  "kind": "beam",
+  "split": false,
+  "frame_count": 10,
+  "source": "scripts/gen_pure_star_frames.py",
+  "frames": [
+    {
+      "file": "to_beam_00.png",
+      "index": 0,
+      "duration_ms": 100
+    },
+    {
+      "file": "to_beam_01.png",
+      "index": 1,
+      "duration_ms": 100
+    },
+    {
+      "file": "to_beam_02.png",
+      "index": 2,
+      "duration_ms": 100
+    },
+    {
+      "file": "to_beam_03.png",
+      "index": 3,
+      "duration_ms": 100
+    },
+    {
+      "file": "to_beam_04.png",
+      "index": 4,
+      "duration_ms": 100
+    },
+    {
+      "file": "to_beam_05.png",
+      "index": 5,
+      "duration_ms": 100
+    },
+    {
+      "file": "to_beam_06.png",
+      "index": 6,
+      "duration_ms": 100
+    },
+    {
+      "file": "to_beam_07.png",
+      "index": 7,
+      "duration_ms": 100
+    },
+    {
+      "file": "to_beam_08.png",
+      "index": 8,
+      "duration_ms": 100
+    },
+    {
+      "file": "to_beam_09.png",
+      "index": 9,
+      "duration_ms": 100
+    }
+  ],
+  "size": [
+    52,
+    22
+  ],
+  "native_head_px": [
+    48.0,
+    11.0
+  ],
+  "native_tail_x": 4.0,
+  "native_ref_radius": 4.5,
+  "anim_cycle_sec": 1.0
+}

@@ -1,0 +1,83 @@
+{
+  "attack": "SPIKE_RADIAL",
+  "tower_line": "PA",
+  "frame_count": 12,
+  "anim_cycle_sec": 0.45,
+  "size": [
+    48,
+    48
+  ],
+  "native_tail_px": [
+    24.0,
+    24.0
+  ],
+  "native_ref_radius": 14.0,
+  "vis_seed": 3913,
+  "source": "scripts/gen_pa_spike_frames.py",
+  "godot_refs": [
+    "pa_spike_bolt_sprite_layer.gd",
+    "entity_renderer.gd:_render_pa_spike_bolts"
+  ],
+  "frames": [
+    {
+      "file": "pa_spike_00.png",
+      "index": 0,
+      "duration_ms": 37
+    },
+    {
+      "file": "pa_spike_01.png",
+      "index": 1,
+      "duration_ms": 37
+    },
+    {
+      "file": "pa_spike_02.png",
+      "index": 2,
+      "duration_ms": 37
+    },
+    {
+      "file": "pa_spike_03.png",
+      "index": 3,
+      "duration_ms": 37
+    },
+    {
+      "file": "pa_spike_04.png",
+      "index": 4,
+      "duration_ms": 37
+    },
+    {
+      "file": "pa_spike_05.png",
+      "index": 5,
+      "duration_ms": 37
+    },
+    {
+      "file": "pa_spike_06.png",
+      "index": 6,
+      "duration_ms": 37
+    },
+    {
+      "file": "pa_spike_07.png",
+      "index": 7,
+      "duration_ms": 37
+    },
+    {
+      "file": "pa_spike_08.png",
+      "index": 8,
+      "duration_ms": 37
+    },
+    {
+      "file": "pa_spike_09.png",
+      "index": 9,
+      "duration_ms": 37
+    },
+    {
+      "file": "pa_spike_10.png",
+      "index": 10,
+      "duration_ms": 37
+    },
+    {
+      "file": "pa_spike_11.png",
+      "index": 11,
+      "duration_ms": 37
+    }
+  ]
+}
