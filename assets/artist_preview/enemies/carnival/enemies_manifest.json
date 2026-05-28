@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "notes_ru": "ISO-враги Карнавала map 1. 6 гекс-направлений dir_0..5 = E, NE, NW, W, SW, SE (как TA plant_head_6way). idle - 1 кадр на направление; walk - 4 кадра (00..03); death - один общий PNG без направлений.",
+  "hex_direction_labels": ["E", "NE", "NW", "W", "SW", "SE"],
+  "walk_frame_count": 4,
+  "paths": {
+    "idle": "idle/dir_{d}.png",
+    "walk": "walk/dir_{d}/{frame}.png",
+    "death": "death/00.png"
+  },
+  "enemies": [
+    {
+      "order": 1,
+      "slug": "wax_faces_1",
+      "display_name_ru": "Восковые лица 1",
+      "def_id": "ENEMY_WAX_FACES_1_CAMPAIGN",
+      "td_archetype": "Слабый / red bloon",
+      "visual_hint_ru": "Бледные восковые маски-лица, слепые глаза, капает воск (тип 1)",
+      "canvas_w": 96,
+      "canvas_h": 128,
+      "map1_first_wave": 1,
+      "flying": false
+    },
+    {
+      "order": 1.1,
+      "slug": "wax_faces_2",
+      "display_name_ru": "Восковые лица 2",
+      "def_id": "ENEMY_WAX_FACES_2_CAMPAIGN",
+      "td_archetype": "Слабый / red bloon",
+      "visual_hint_ru": "Восковые маски-лица, вариант 2 (позже в таймлайне)",
+      "canvas_w": 96,
+      "canvas_h": 128,
+      "map1_first_wave": null,
+      "flying": false
+    },
+    {
+      "order": 1.2,
+      "slug": "wax_faces_3",
+      "display_name_ru": "Восковые лица 3",
+      "def_id": "ENEMY_WAX_FACES_3_CAMPAIGN",
+      "td_archetype": "Слабый / red bloon",
+      "visual_hint_ru": "Восковые маски-лица, вариант 3 (позже в таймлайне)",
+      "canvas_w": 96,
+      "canvas_h": 128,
+      "map1_first_wave": null,
+      "flying": false
+    },
+    {
+      "order": 2,
+      "slug": "mob_participant",
+      "display_name_ru": "Участник массовки",
+      "def_id": "ENEMY_MOB_PARTICIPANT_1_CAMPAIGN",
+      "td_archetype": "Слабый 2",
+      "visual_hint_ru": "Серый статист, бумажный фонарь или лента на груди",
+      "canvas_w": 96,
+      "canvas_h": 128,
+      "map1_first_wave": 3,
+      "flying": false
+    },
+    {
+      "order": 2.1,
+      "slug": "mob_participant_2",
+      "display_name_ru": "Участник массовки 2",
+      "def_id": "ENEMY_MOB_PARTICIPANT_2_CAMPAIGN",
+      "td_archetype": "Слабый 2",
+      "visual_hint_ru": "Шаблон для отрисовки (тип 2). В волнах пока не используется.",
+      "canvas_w": 96,
+      "canvas_h": 128,
+      "map1_first_wave": null,
+      "flying": false
+    },
+    {
+      "order": 2.2,
+      "slug": "mob_participant_3",
+      "display_name_ru": "Участник массовки 3",
+      "def_id": "ENEMY_MOB_PARTICIPANT_3_CAMPAIGN",
+      "td_archetype": "Слабый 2",
+      "visual_hint_ru": "Шаблон для отрисовки (тип 3). В волнах пока не используется.",
+      "canvas_w": 96,
+      "canvas_h": 128,
+      "map1_first_wave": null,
+      "flying": false
+    },
+    {
+      "order": 3,
+      "slug": "former_pupil",
+      "display_name_ru": "Бывший ученик",
+      "def_id": "ENEMY_NORMAL_CAMPAIGN",
+      "td_archetype": "Обычный",
+      "visual_hint_ru": "Подросток в робе, повязка на глазах, смотрит в сторону пути",
+      "canvas_w": 112,
+      "canvas_h": 144,
+      "map1_first_wave": 6,
+      "flying": false
+    },
+    {
+      "order": 4,
+      "slug": "shackle_smith",
+      "display_name_ru": "Кузнец кандалов",
+      "def_id": "ENEMY_TOUGH_CAMPAIGN",
+      "td_archetype": "Крепкий / ceramic",
+      "visual_hint_ru": "Массивный мужчина, фартук, кандалы на поясе, топор за спиной",
+      "canvas_w": 128,
+      "canvas_h": 160,
+      "map1_first_wave": 8,
+      "flying": false
+    },
+    {
+      "order": 5,
+      "slug": "runner",
+      "display_name_ru": "Бегун",
+      "def_id": "ENEMY_FAST_CAMPAIGN",
+      "td_archetype": "Быстрый / pink bloon",
+      "visual_hint_ru": "Акrobat в наклоне, короткий барабан или ходули-коротыши",
+      "canvas_w": 96,
+      "canvas_h": 128,
+      "map1_first_wave": 17,
+      "flying": false
+    },
+    {
+      "order": 6,
+      "slug": "opera_ghost",
+      "display_name_ru": "Оперный призрак",
+      "def_id": "ENEMY_MAGIC_RESIST_CAMPAIGN",
+      "td_archetype": "Магический щит",
+      "visual_hint_ru": "Белая маска, бархатное платье, разбитое зеркало в руке",
+      "canvas_w": 112,
+      "canvas_h": 144,
+      "map1_first_wave": 13,
+      "flying": false
+    },
+    {
+      "order": 7,
+      "slug": "procession_crucifer",
+      "display_name_ru": "Распятник процессии",
+      "def_id": "ENEMY_PHYSICAL_RESIST_CAMPAIGN",
+      "td_archetype": "Физический щит / lead",
+      "visual_hint_ru": "Высокий носильщик, деревянный крест, пустая маска на кресте",
+      "canvas_w": 112,
+      "canvas_h": 160,
+      "map1_first_wave": 13,
+      "flying": false
+    },
+    {
+      "order": 8,
+      "slug": "owner_shadow",
+      "display_name_ru": "Тень хозяина",
+      "def_id": "ENEMY_DARKNESS_1_CAMPAIGN",
+      "td_archetype": "Тьма 1 / black bloon",
+      "visual_hint_ru": "Черный силуэт человека, белые глаза, без деталей лица",
+      "canvas_w": 96,
+      "canvas_h": 128,
+      "map1_first_wave": 25,
+      "flying": false
+    },
+    {
+      "order": 9,
+      "slug": "carnival_puppet_boss",
+      "display_name_ru": "Карнавальная кукла",
+      "def_id": "ENEMY_BOSS",
+      "td_archetype": "Босс map 1 (не ENEMY_BOSS_CAMPAIGN)",
+      "visual_hint_ru": "Большая деревянная marionette, шарниры, нитки вверх, трещины, пустая улыбка",
+      "canvas_w": 192,
+      "canvas_h": 256,
+      "map1_first_wave": 19,
+      "flying": false
+    },
+    {
+      "order": 10,
+      "slug": "masked_bat",
+      "display_name_ru": "Летучая мышь с маской",
+      "def_id": "ENEMY_FLYING_WEAK_CAMPAIGN",
+      "td_archetype": "Летающий слабый",
+      "visual_hint_ru": "Крылья, маленькая театральная маска на морде, висит чуть выше «земли»",
+      "canvas_w": 80,
+      "canvas_h": 80,
+      "map1_first_wave": 22,
+      "flying": true,
+      "optional_note_ru": "Десятый слот - летающий; в map 1 появляется позже щитов. Тот же набор idle/walk/death; якорь по центру тела."
+    }
+  ]
+}
