@@ -1,0 +1,3 @@
+pick_seq	run_sec	run_level	lerp_t	family	max_tier	tier	def_id	unlocked_families	compressed_weights	tier_probs_pct
+1	0.00	1	0.0000	TA	1	1	TA1_CAMPAIGN	TA	100	100.00
+2	0.00	1	0.0000	TA	1	1	TA1_CAMPAIGN	TA	100	100.00
