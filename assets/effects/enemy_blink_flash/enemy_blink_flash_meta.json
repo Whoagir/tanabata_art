@@ -1,0 +1,44 @@
+{
+  "effect": "enemy_blink_flash",
+  "frame_count": 6,
+  "anim_cycle_sec": 0.45,
+  "size": [
+    80,
+    80
+  ],
+  "source": "scripts/gen_enemy_effect_placeholders.py",
+  "placeholder": true,
+  "frames": [
+    {
+      "file": "enemy_blink_flash_00.png",
+      "index": 0,
+      "tick_u": 0.0
+    },
+    {
+      "file": "enemy_blink_flash_01.png",
+      "index": 1,
+      "tick_u": 0.1667
+    },
+    {
+      "file": "enemy_blink_flash_02.png",
+      "index": 2,
+      "tick_u": 0.3333
+    },
+    {
+      "file": "enemy_blink_flash_03.png",
+      "index": 3,
+      "tick_u": 0.5
+    },
+    {
+      "file": "enemy_blink_flash_04.png",
+      "index": 4,
+      "tick_u": 0.6667
+    },
+    {
+      "file": "enemy_blink_flash_05.png",
+      "index": 5,
+      "tick_u": 0.8333
+    }
+  ],
+  "oneshot": true
+}

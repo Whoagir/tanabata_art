@@ -1,0 +1,54 @@
+{
+  "effect": "enemy_status_poison",
+  "frame_count": 8,
+  "anim_cycle_sec": 1.1,
+  "size": [
+    96,
+    96
+  ],
+  "source": "scripts/gen_enemy_effect_placeholders.py",
+  "placeholder": true,
+  "frames": [
+    {
+      "file": "enemy_status_poison_00.png",
+      "index": 0,
+      "tick_u": 0.0
+    },
+    {
+      "file": "enemy_status_poison_01.png",
+      "index": 1,
+      "tick_u": 0.125
+    },
+    {
+      "file": "enemy_status_poison_02.png",
+      "index": 2,
+      "tick_u": 0.25
+    },
+    {
+      "file": "enemy_status_poison_03.png",
+      "index": 3,
+      "tick_u": 0.375
+    },
+    {
+      "file": "enemy_status_poison_04.png",
+      "index": 4,
+      "tick_u": 0.5
+    },
+    {
+      "file": "enemy_status_poison_05.png",
+      "index": 5,
+      "tick_u": 0.625
+    },
+    {
+      "file": "enemy_status_poison_06.png",
+      "index": 6,
+      "tick_u": 0.75
+    },
+    {
+      "file": "enemy_status_poison_07.png",
+      "index": 7,
+      "tick_u": 0.875
+    }
+  ],
+  "status": "poison"
+}

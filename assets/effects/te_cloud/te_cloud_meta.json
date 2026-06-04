@@ -1,0 +1,106 @@
+{
+  "attack": "SKY_LIGHTNING",
+  "visual_msec": 560,
+  "frame_count": 12,
+  "size": [
+    128,
+    80
+  ],
+  "vis_seed": 7919,
+  "native_anchor": [
+    64.0,
+    70.0
+  ],
+  "style": "cartoon: dark outline, volume highlights, gray palette",
+  "source": "scripts/gen_te_cloud_frames.py",
+  "godot_refs": [
+    "te_cloud_sprite_layer.gd",
+    "entity_renderer.gd"
+  ],
+  "frames": [
+    {
+      "file": "te_cloud_00.png",
+      "index": 0,
+      "alpha": 1.0,
+      "flicker": 0,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_cloud_01.png",
+      "index": 1,
+      "alpha": 0.9091,
+      "flicker": 1,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_cloud_02.png",
+      "index": 2,
+      "alpha": 0.8182,
+      "flicker": 2,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_cloud_03.png",
+      "index": 3,
+      "alpha": 0.7273,
+      "flicker": 4,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_cloud_04.png",
+      "index": 4,
+      "alpha": 0.6364,
+      "flicker": 5,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_cloud_05.png",
+      "index": 5,
+      "alpha": 0.5455,
+      "flicker": 6,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_cloud_06.png",
+      "index": 6,
+      "alpha": 0.4545,
+      "flicker": 8,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_cloud_07.png",
+      "index": 7,
+      "alpha": 0.3636,
+      "flicker": 9,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_cloud_08.png",
+      "index": 8,
+      "alpha": 0.2727,
+      "flicker": 10,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_cloud_09.png",
+      "index": 9,
+      "alpha": 0.1818,
+      "flicker": 12,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_cloud_10.png",
+      "index": 10,
+      "alpha": 0.0909,
+      "flicker": 13,
+      "duration_ms": 50
+    },
+    {
+      "file": "te_cloud_11.png",
+      "index": 11,
+      "alpha": 0.0,
+      "flicker": 14,
+      "duration_ms": 50
+    }
+  ]
+}

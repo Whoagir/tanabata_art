@@ -1,0 +1,54 @@
+{
+  "effect": "enemy_status_heal",
+  "frame_count": 8,
+  "anim_cycle_sec": 1.0,
+  "size": [
+    96,
+    96
+  ],
+  "source": "scripts/gen_enemy_effect_placeholders.py",
+  "placeholder": true,
+  "frames": [
+    {
+      "file": "enemy_status_heal_00.png",
+      "index": 0,
+      "tick_u": 0.0
+    },
+    {
+      "file": "enemy_status_heal_01.png",
+      "index": 1,
+      "tick_u": 0.125
+    },
+    {
+      "file": "enemy_status_heal_02.png",
+      "index": 2,
+      "tick_u": 0.25
+    },
+    {
+      "file": "enemy_status_heal_03.png",
+      "index": 3,
+      "tick_u": 0.375
+    },
+    {
+      "file": "enemy_status_heal_04.png",
+      "index": 4,
+      "tick_u": 0.5
+    },
+    {
+      "file": "enemy_status_heal_05.png",
+      "index": 5,
+      "tick_u": 0.625
+    },
+    {
+      "file": "enemy_status_heal_06.png",
+      "index": 6,
+      "tick_u": 0.75
+    },
+    {
+      "file": "enemy_status_heal_07.png",
+      "index": 7,
+      "tick_u": 0.875
+    }
+  ],
+  "status": "heal"
+}
